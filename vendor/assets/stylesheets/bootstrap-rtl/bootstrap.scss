@@ -5,49 +5,49 @@ Author URI: http://avadesigner.com/
 Author Email: z.avanes@gmail.com
 Version: 1.1.0
 */
-@import "bootstrap/bi-app/_bi-app-rtl";
+@import "bootstrap-rtl/bi-app/_bi-app-rtl";
 @import "custome-variables";
 // Core variables and mixins
-@import "bootstrap/variables";
-@import "bootstrap/mixins";
+@import "bootstrap-rtl/variables";
+@import "bootstrap-rtl/mixins";
 // Reset and dependencies
-@import "bootstrap/normalize";
-@import "bootstrap/print";
-@import "bootstrap/glyphicons";
+@import "bootstrap-rtl/normalize";
+@import "bootstrap-rtl/print";
+@import "bootstrap-rtl/glyphicons";
 // Core CSS
-@import "bootstrap/scaffolding";
-@import "bootstrap/type";
-@import "bootstrap/code";
-@import "bootstrap/grid";
-@import "bootstrap/tables";
-@import "bootstrap/forms";
-@import "bootstrap/buttons";
+@import "bootstrap-rtl/scaffolding";
+@import "bootstrap-rtl/type";
+@import "bootstrap-rtl/code";
+@import "bootstrap-rtl/grid";
+@import "bootstrap-rtl/tables";
+@import "bootstrap-rtl/forms";
+@import "bootstrap-rtl/buttons";
 // Components
-@import "bootstrap/component-animations";
-@import "bootstrap/dropdowns";
-@import "bootstrap/button-groups";
-@import "bootstrap/input-groups";
-@import "bootstrap/navs";
-@import "bootstrap/navbar";
-@import "bootstrap/breadcrumbs";
-@import "bootstrap/pagination";
-@import "bootstrap/pager";
-@import "bootstrap/labels";
-@import "bootstrap/badges";
-@import "bootstrap/jumbotron";
-@import "bootstrap/thumbnails";
-@import "bootstrap/alerts";
-@import "bootstrap/progress-bars";
-@import "bootstrap/media";
-@import "bootstrap/list-group";
-@import "bootstrap/panels";
-@import "bootstrap/responsive-embed";
-@import "bootstrap/wells";
-@import "bootstrap/close";
+@import "bootstrap-rtl/component-animations";
+@import "bootstrap-rtl/dropdowns";
+@import "bootstrap-rtl/button-groups";
+@import "bootstrap-rtl/input-groups";
+@import "bootstrap-rtl/navs";
+@import "bootstrap-rtl/navbar";
+@import "bootstrap-rtl/breadcrumbs";
+@import "bootstrap-rtl/pagination";
+@import "bootstrap-rtl/pager";
+@import "bootstrap-rtl/labels";
+@import "bootstrap-rtl/badges";
+@import "bootstrap-rtl/jumbotron";
+@import "bootstrap-rtl/thumbnails";
+@import "bootstrap-rtl/alerts";
+@import "bootstrap-rtl/progress-bars";
+@import "bootstrap-rtl/media";
+@import "bootstrap-rtl/list-group";
+@import "bootstrap-rtl/panels";
+@import "bootstrap-rtl/responsive-embed";
+@import "bootstrap-rtl/wells";
+@import "bootstrap-rtl/close";
 // Components w/ JavaScript
-@import "bootstrap/modals";
-@import "bootstrap/tooltip";
-@import "bootstrap/popovers";
-@import "bootstrap/carousel";
+@import "bootstrap-rtl/modals";
+@import "bootstrap-rtl/tooltip";
+@import "bootstrap-rtl/popovers";
+@import "bootstrap-rtl/carousel";
 // Utility classes
 
